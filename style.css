@@ -1,0 +1,11 @@
+.svg{
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+    border-radius: 2px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
